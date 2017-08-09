@@ -1,9 +1,3 @@
-/*
-Jessica Barnitz
-CSCI 2270
-Final Project
-*/
-
 #ifndef HASHTABLE_H
 #define HASHTABLE_H
 
