@@ -1,9 +1,3 @@
-/*
-Jessica Barnitz
-CSCI 2270: Data Structures
-Final Project 
-*/
-
 #include "HashTable.h"
 #include <iostream>
 #include <string>
